@@ -1,2 +1,2 @@
-# Personal-Site
-This is a personal website
+# Will-Jin
+This is my personal website
